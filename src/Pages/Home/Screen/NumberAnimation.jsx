@@ -1,14 +1,26 @@
-import React from 'react'
-import { useSpring, animated } from 'react-spring'
+import React, { useState } from 'react'
+import CountUp from 'react-countup'
+import ScrollTrigger from 'react-scroll-trigger';
 
-export const NumberAnimation = ({n}) => {
-  const { number} = useSpring({
-    from: { number:0},
-    number: n,
-    delay: 200,
-    config: { mass: 1, tension: 200, friction: 10},  
-  })
+
+export const NumberAnimation = () => {
+  const [counterOn, setCounterOn] = useState(false);
   return (
-   <animated.div>{number.to((n) => n.toFixed(0))}</animated.div>
+    <div className='flex justify-between mt-12'>
+    <ScrollTrigger onEnter={()=> setCounterOn(true)} onExit={()=> setCounterOn(false)}>
+   <div className='text-pink-600 text-3xl font-bold'>
+    {counterOn && <CountUp start={0} end={500} duration={2} delay={0}></CountUp>}
+    +
+   </div>
+   <p className='text-md font-semibold mt-3'>Happy Customer</p>
+   </ScrollTrigger>
+    <ScrollTrigger onEnter={()=> setCounterOn(true)} onExit={()=> setCounterOn(false)}>
+   <div className='text-pink-600 text-3xl font-bold mr-40'>
+    {counterOn && <CountUp start={0} end={16} duration={2} delay={0}></CountUp>}
+    +
+   </div>
+   <p className='text-md font-semibold mt-3' >Total Service</p>
+   </ScrollTrigger>
+   </div>
   )
 }
