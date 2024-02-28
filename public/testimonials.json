@@ -1,0 +1,86 @@
+
+  [
+      {
+        "id": "584327",
+        "image": "https://i.ibb.co/FJ3ptZL/Ellipse-90.png",
+        "femaleName": "Sophia",
+        "designation": "Senior Stylist",
+        "comment": "Absolutely loved the hair treatment! The staff is skilled and friendly. The salon has a trendy and chic atmosphere.",
+        "rating": 4.7,
+        "stars": "⭐⭐⭐⭐⭐"
+      },
+      {
+        "id": "731490",
+        "image": "https://i.ibb.co/Z1Snrh6/wImg9.png",
+        "femaleName": "Olivia",
+        "designation": "Makeup Artist",
+        "comment": "Fantastic makeup service! Attention to detail is commendable. The salon uses high-quality products.",
+        "rating": 4.9,
+        "stars": "⭐⭐⭐⭐⭐"
+      },
+      {
+        "id": "206845",
+        "image": "https://i.ibb.co/hMnLVCv/wImg8.png",
+        "femaleName": "Ava",
+        "designation": "Nail Technician",
+        "comment": "Great nail art options! The salon is clean, and the nail technicians are skilled and creative.Their service is excellent.",
+        "rating": 4.5,
+        "stars": "⭐⭐⭐⭐"
+      },
+      {
+        "id": "895613",
+        "image": "https://i.ibb.co/dBp3r7S/wImg7.jpg",
+        "femaleName": "Mia",
+        "designation": "Spa Therapist",
+        "comment": "Relaxing spa experience! The ambiance is calming, and the therapists are professional.I recommend them for the best experience.",
+        "rating": 4.8,
+        "stars": "⭐⭐⭐⭐⭐"
+      },
+      {
+        "id": "372109",
+        "image": "https://i.ibb.co/hfxgYZD/wImg6.png",
+        "femaleName": "Isabella",
+        "designation": "Hair Color Specialist",
+        "comment": "Outstanding hair color service! The stylist understood exactly what I wanted. Highly recommended.",
+        "rating": 4.6,
+        "stars": "⭐⭐⭐⭐"
+      },
+      {
+        "id": "468521",
+        "image": "https://i.ibb.co/rs9ZzMf/wImg5.png",
+        "femaleName": "Sophie",
+        "designation": "Skin Care Expert",
+        "comment": "Skincare treatments are amazing! My skin feels rejuvenated. The staff is knowledgeable and friendly.",
+        "rating": 4.7,
+        "stars": "⭐⭐⭐⭐⭐"
+      },
+      {
+        "id": "914367",
+        "image": "https://i.ibb.co/6s1MCc9/wImg4.jpg",
+        "femaleName": "Amelia",
+        "designation": "Eyelash Technician",
+        "comment": "Love my eyelash extensions! The technician was precise, and the salon has a cozy atmosphere.",
+        "rating": 4.9,
+        "stars": "⭐⭐⭐⭐⭐"
+      },
+      {
+        "id": "629874",
+        "image": "https://i.ibb.co/8g4L7tc/wImg3.jpg",
+        "femaleName": "Evelyn",
+        "designation": "Waxing Specialist",
+        "comment": "Efficient waxing service! The salon maintains cleanliness, and the staff is friendly. It's an amazing experience. ",
+        "rating": 4.5,
+        "stars": "⭐⭐⭐⭐"
+      },
+      {
+        "id": "185240",
+        "image": "https://i.ibb.co/MhzZfvr/wImg2.jpg",
+        "femaleName": "Abigail",
+        "designation": "Manicurist",
+        "comment": "Best manicure experience! The salon offers a wide range of nail colors, and the staff is skilled.",
+        "rating": 4.8,
+        "stars": "⭐⭐⭐⭐⭐"
+      }
+    ]
+  
+  
