@@ -6,7 +6,7 @@ import { NumberAnimation } from './NumberAnimation'
 
 export const Screen = () => {
   return (
-    <div className='lg:flex justify-around mt-36'>
+    <div className='lg:flex justify-around mt-36 bg-pink-50'>
         <div>
 <img src={screenImg} alt="" />
         </div>

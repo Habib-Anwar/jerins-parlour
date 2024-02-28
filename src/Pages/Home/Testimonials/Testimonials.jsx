@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react'
-import { TestiItem } from './TestiItem';
 import { Navigation, Pagination } from 'swiper/modules';
 
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -40,7 +39,7 @@ export const Testimonials = () => {
   item={item}>
 
 <div>
-<div className="card w-96 bg-base-100 shadow-xl">
+<div className="card w-96 bg-base-100 shadow-xl mb-8">
   <div className="card-body">
     <div className='flex'>
       <div>

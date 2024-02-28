@@ -4,7 +4,7 @@ import img from "../../../assets/images/girl.png"
 export const Banner = () => {
   return (
    <>
-   <div className='lg:flex justify-around'>
+   <div className='lg:flex justify-around bg-pink-50'>
     <div>
         <h1 className='uppercase text-4xl font-bold mt-20'>Beauty salon <br></br><span className=''> for every women</span></h1>
         <p className='mt-6'>Lorem ipsum dolor sit<br></br> amet consectetur adipisicing elit. <br></br>Voluptate deleniti vel unde! Fuga, <br></br>animi expedita.</p>
