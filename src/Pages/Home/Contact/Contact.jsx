@@ -1,4 +1,5 @@
 import React from 'react'
+import { Background } from './Background'
 
 export const Contact = () => {
   return (
@@ -49,6 +50,7 @@ export const Contact = () => {
 
 <button className='btn bg-pink-600 text-white'>Send Message</button>
 </div>
+<Background></Background>
     </div>
   )
 }
